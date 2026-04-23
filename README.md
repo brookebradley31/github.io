@@ -6,7 +6,7 @@ I am a mathematically-driven Data Analyst currently working in the **National Pr
 ---
 
 ## Technical Skills
-* **Data Analysis & Visualization:** SQL, Tableau, R, STATA
+* **Data Analysis & Visualization:** SQL, Tableau, R, STATA, Google Sheets, Excel
 * **Mathematics:** Probability, Statistical Modeling, Calculus, Linear Algebra
 * **Business Productivity:** QuickBooks, Google Workspace, Microsoft Office
 
