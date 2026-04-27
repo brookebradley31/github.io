@@ -47,4 +47,4 @@ Internship Achievements:
 
 ## Contact Info
 * **LinkedIn:** [www.linkedin.com/in/brookebradley31](www.linkedin.com/in/brookebradley31)
-* **Professional Email:** brookebradley31@gmail.com 
+* **Email:** brookebradley31@gmail.com 
