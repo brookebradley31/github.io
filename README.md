@@ -1,5 +1,5 @@
 # Brooke Bradley 
-### Data Analyst | Mathematics Graduate from University of Miami
+### Data Analyst | Mathematics Graduate from the University of Miami
 
 I am a mathematically-driven Data Analyst currently working in the **National Processing Group at Willis Towers Watson (WTW)**. I am passionate about using my quantitative skills to solve complex problems and am committed to pursuing a career where I can apply myself to make a meaningful impact. Recently, I earned the **Google Data Analytics Professional Certificate** to further build my technical skills in SQL, R, and Tableau.
 
@@ -29,7 +29,7 @@ I am a mathematically-driven Data Analyst currently working in the **National Pr
 
 _Analyst_ | _Incoming Full-Time: May 2026 | Former Intern: Summer 2025_
 
-* Selected as one of only three interns from the summer 2025 program to recieve a full time offer
+* Selected as one of only three interns from the summer 2025 program to receive a full-time offer
 * Created liability runs, summarized data, and drafted funding reports for pension plans with over $100 million in liabilities using Excel and proprietary software
 * Applied skills learned in actuarial math, liability calculation, and pension plan fundamental training to client work
 * Processed data, conducted gain/loss analysis, and performed funding and accounting valuations on 2 mock clients, and assisted with 5 real clients
