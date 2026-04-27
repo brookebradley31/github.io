@@ -25,17 +25,30 @@ I am a mathematically-driven Data Analyst currently working in the **National Pr
 ---
 
 ## Work Experience
-**Analyst** | **Willis Towers Watson (WTW)**  _Incoming Full-Time: May 2026 | Former Intern: Summer 2025_
+**Willis Towers Watson (WTW)** | **Memphis, TN (Remote)**
 
-Full-Time Role: Process and analyze data to support funding and accounting valuations and financial reporting using analytical frameworks.
+_Analyst_ | _Incoming Full-Time: May 2026 | Former Intern: Summer 2025_
 
-Internship Achievements:
+* Selected as one of only three interns from the summer 2025 program to recieve a full time offer
+* Created liability runs, summarized data, and drafted funding reports for pension plans with over $100 million in liabilities using Excel and proprietary software
+* Applied skills learned in actuarial math, liability calculation, and pension plan fundamental training to client work
+* Processed data, conducted gain/loss analysis, and performed funding and accounting valuations on 2 mock clients, and assisted with 5 real clients
+* Presented findings from 2 mock client projects, demonstrating clear communication of technical results
 
-* Leveraged Excel and proprietary tools to assist in the actuarial valuation process for large-scale pension plans.
 
-* Collaborated with senior analysts to clean and audit participant data, ensuring accuracy for financial disclosures.
+**Landmark Properties** | **Miami, FL**
 
-* Applied mathematical modeling to analyze retirement plan trends and liability projections.
+_Landmark Properties_ | _May 2024 - September 2024_
+
+* Facilitated leasing operations for 300+ tenants using Entrata property management software to monitor progress and convert leads into tenants
+* Collaborated on marketing strategies and managed resident relationships to ensure high satisfaction and consistent property growth
+
+**GoodCo Products** | **Indian Head Park, IL**
+
+_Accounting Intern_ | _May 2023 - September 2023_
+
+* Assisted bookkeeping for household goods inventory by entering invoices, verifying expenses, and allocating freight-in costs using QuickBooks and Excel
+* Supported the Accounting Manager with daily financial operations, ensuring data accuracy in ledger maintenance and expense tracking
 
 ---
 
